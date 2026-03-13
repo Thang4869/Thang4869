@@ -1,19 +1,19 @@
 name: Generate Snake Animation
 
 on:
-  # Chạy tự động mỗi 12 giờ
   schedule:
     - cron: "0 */12 * * *"
-  # Cho phép chạy thủ công từ tab Actions
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       
-      # Tạo hiệu ứng rắn từ lịch sử commit của Thang4869
       - uses: Platane/snk@v3
         with:
           github_user_name: Thang4869
@@ -23,9 +23,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      # Đẩy file ảnh vừa tạo lên nhánh 'output'
       - name: Push to GitHub
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
