@@ -12,28 +12,19 @@ jobs:
       - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }} # Dùng token hệ thống để đẩy ảnh
-
-          # Cấu hình hiển thị
           user: Thang4869
           template: classic
-          base: "" # Ẩn Header danh sách dài dằng dặc nãy đi
+          base: ""
           config_timezone: Asia/Ho_Chi_Minh
           
-          # PLUGIN HABITS (Đây là cái tạo ra Radar Chart)
+          # PLUGIN HABITS (Radar Chart)
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          plugin_habits_charts_type: radar # Ép kiểu về Mạng nhện
+          plugin_habits_charts_type: radar
           
-          # PLUGIN LANGUAGES (Bổ trợ thêm thông tin ngôn ngữ bên dưới)
-          plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_details: percentage
-          
-          # PHẦN QUAN TRỌNG: Tránh lỗi 'remaining' và tối ưu render
+          # Cấu hình hiển thị tránh lỗi API
           config_display: columns
           output_action: commit
-          delay: 120 # Đợi 2 phút để đảm bảo API không bị nghẽn
