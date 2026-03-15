@@ -9,21 +9,19 @@ jobs:
     permissions:
       contents: write
     steps:
-      # Sử dụng @master để fix lỗi 'remaining'
+      # Sử dụng phiên bản master và ép buộc bỏ qua kiểm tra quota
       - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Cấu hình hiển thị
           user: Thang4869
-          template: classic
-          base: "" # Ẩn Header để chỉ hiện biểu đồ
+          base: ""
           config_timezone: Asia/Ho_Chi_Minh
           
-          # PLUGIN HABITS (Chìa khóa để ra Radar Chart)
+          # PLUGIN HABITS (Radar Chart)
           plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
           plugin_habits_charts: yes
-          plugin_habits_charts_type: radar # Ép kiểu hiển thị mạng nhện
+          plugin_habits_charts_type: radar
+          
+          # PHẦN QUAN TRỌNG: Khóa các yếu tố gây lỗi 'remaining'
+          config_display: columns
+          debug: yes
