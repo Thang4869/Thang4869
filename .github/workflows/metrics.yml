@@ -9,25 +9,26 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      # Sử dụng @master thay vì @latest để tránh lỗi 'remaining' của bản v3.34
+      - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Cấu hình chính
+          # Cấu hình hiển thị
           user: Thang4869
           template: classic
-          base: ""
+          base: "" # Xóa header mặc định để trông gọn hơn
           config_timezone: Asia/Ho_Chi_Minh
           
-          # PLUGIN LANGUAGES (Tạo biểu đồ mạng nhện)
+          # PLUGIN HABITS - Đây là nơi tạo ra RADAR CHART
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: radar # Ép kiểu về mạng nhện
+          
+          # PLUGIN LANGUAGES (Tùy chọn thêm để bổ trợ dữ liệu)
           plugin_languages: yes
           plugin_languages_sections: most-used
-          plugin_languages_indepth: yes # Phân tích sâu hơn
-          plugin_languages_details: percentage # Hiển thị %
-          plugin_languages_categories: markup, programming
-          plugin_languages_limit: 8
-          
-          # KÍCH HOẠT RADAR CHART
-          # Chú ý: Plugin này sẽ tạo ra một biểu đồ về thói quen/kỹ năng
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_languages_details: percentage
