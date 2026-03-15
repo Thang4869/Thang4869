@@ -53,7 +53,7 @@
     </td>
     <td width="55%" valign="top" align="center">
       <h3>📊 Skills & Activity</h3>
-      <img src="https://quickchart.io/chart?c=%7Btype%3A'radar'%2Cdata%3A%7Blabels%3A%5B'Frontend'%2C'Backend'%2C'.NET'%2C'DevOps'%2C'Mobile'%2C'DB'%5D%2Cdatasets%3A%5B%7Blabel%3A'Skill'%2Cdata%3A%5B80%2C78%2C82%2C60%2C75%2C77%5D%2CbackgroundColor%3A'rgba(132%2C177%2C121%2C0.25)'%2CborderColor%3A'%2384B179'%2CpointBackgroundColor%3A'%23A2CB8B'%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%7D%2Cscales%3A%7Br%3A%7Bgrid%3A%7Bcolor%3A'%23444444'%7D%2CangleLines%3A%7Bcolor%3A'%23444444'%7D%2CpointLabels%3A%7Bcolor%3A'%23888888'%2Cfont%3A%7Bsize%3A14%7D%7D%2CsuggestedMin%3A0%2CsuggestedMax%3A100%7D%7D%7D%7D" width="100%" style="max-width: 500px;" />
+      <img src="https://github.com/Thang4869/Thang4869/blob/main/github-metrics.svg" alt="Metrics" width="100%" />
       <br/><br/>
       <img src="https://github-readme-stats.vercel.app/api?username=Thang4869&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117&title_color=84B179&icon_color=A2CB8B&text_color=888888&border_color=444444&include_all_commits=true&cache_seconds=1800" width="100%" style="max-width: 520px;" />
       <br/><br/>
