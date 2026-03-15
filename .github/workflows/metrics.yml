@@ -14,17 +14,26 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Thang4869
           template: classic
-          base: ""
+          base: header, metadata # Giữ lại header một chút cho chuyên nghiệp
           config_timezone: Asia/Ho_Chi_Minh
           
-          # PLUGIN HABITS (Radar Chart)
+          # PLUGIN 1: HABITS (Radar Chart thói quen)
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
-          plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: radar
           
-          # Cấu hình hiển thị tránh lỗi API
+          # PLUGIN 2: LANGUAGES (Dữ liệu ngôn ngữ thật)
+          plugin_languages: yes
+          plugin_languages_ignored: html, css # Ẩn bớt để tập trung vào C#, JS
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          
+          # PLUGIN 3: ISOCALENDAR (Biểu đồ đóng góp 3D/Radar)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # Tối ưu hiển thị
           config_display: columns
           output_action: commit
