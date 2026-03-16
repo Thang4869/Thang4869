@@ -53,11 +53,7 @@
     </td>
     <td width="55%" valign="top" align="center">
       <h3>📊 Skills & Activity</h3>
-      <img src="https://raw.githubusercontent.com/Thang4869/Thang4869/main/github-metrics.svg" alt="Metrics Radar" width="100%" />
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Thang4869&show_icons=true&theme=react&rank_icon=github&include_all_commits=true&count_private=true&hide_border=false&bg_color=0D1117&title_color=84B179&icon_color=A2CB8B&text_color=888888&border_color=444444" width="400" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thang4869&layout=compact&theme=react&hide_border=false&bg_color=0D1117&title_color=84B179&text_color=888888&border_color=444444" width="300" />
-      </div>
+  <img src="https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Backend%27%2C%27Frontend%27%2C%27Database%27%2C%27DevOps%27%2C%27Mobile%27%2C%27Testing%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Skill%27%2Cdata%3A%5B95%2C80%2C85%2C60%2C75%2C70%5D%2CbackgroundColor%3A%27rgba%28145%2C208%2C108%2C0.3%29%27%2CborderColor%3A%27%2391D06C%27%2CborderWidth%3A3%2Ctension%3A0.4%2CpointRadius%3A3%2CpointBackgroundColor%3A%27%2391D06C%27%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2CchartJsPluginCanvasBackground%3A%7Bcolor%3A%27%230D1117%27%7D%7D%2Clayout%3A%7Bpadding%3A40%7D%2Cscales%3A%7Br%3A%7BangleLines%3A%7Bcolor%3A%27rgba%28255%2C255%2C255%2C0.35%29%27%2ClineWidth%3A2%7D%2Cgrid%3A%7Bcolor%3A%27rgba%28255%2C255%2C255%2C0.25%29%27%2ClineWidth%3A1.5%7D%2CpointLabels%3A%7Bcolor%3A%27%23FFFFFF%27%2Cfont%3A%7Bsize%3A18%2Cweight%3A%27bold%27%7D%7D%2Cticks%3A%7Bdisplay%3Afalse%2Cmax%3A100%2Cmin%3A0%2CstepSize%3A20%7D%7D%7D%7D%7D&v=3" width="400"/>
       <br/><br/>
       <img src="https://github-readme-stats.vercel.app/api?username=Thang4869&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117&title_color=84B179&icon_color=A2CB8B&text_color=888888&border_color=444444&include_all_commits=true&cache_seconds=1800" width="100%" style="max-width: 520px;" />
       <br/><br/>
