@@ -54,6 +54,10 @@
     <td width="55%" valign="top" align="center">
       <h3>📊 Skills & Activity</h3>
       <img src="https://raw.githubusercontent.com/Thang4869/Thang4869/main/github-metrics.svg" alt="Metrics Radar" width="100%" />
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Thang4869&show_icons=true&theme=react&rank_icon=github&include_all_commits=true&count_private=true&hide_border=false&bg_color=0D1117&title_color=84B179&icon_color=A2CB8B&text_color=888888&border_color=444444" width="400" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thang4869&layout=compact&theme=react&hide_border=false&bg_color=0D1117&title_color=84B179&text_color=888888&border_color=444444" width="300" />
+      </div>
       <br/><br/>
       <img src="https://github-readme-stats.vercel.app/api?username=Thang4869&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117&title_color=84B179&icon_color=A2CB8B&text_color=888888&border_color=444444&include_all_commits=true&cache_seconds=1800" width="100%" style="max-width: 520px;" />
       <br/><br/>
