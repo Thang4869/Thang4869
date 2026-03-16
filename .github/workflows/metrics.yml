@@ -9,13 +9,27 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          user: Thang4869
-          base: "" # TẮT HẾT BASE ĐỂ TRÁNH LỖI QUOTA
-          plugin_followup: yes
-          plugin_followup_archived: yes
-          plugin_followup_sections: user
-          # Dòng này ép nó phải vẽ dạng radar
+          base: ""
+          template: classic
+          
+          # PLUGIN LANGUAGES: Cấu hình để hiện Radar Kỹ năng
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
+          plugin_languages_details: percentage
+          plugin_languages_categories: programming # Chỉ tập trung vào code
+          
+          # TẠO RADAR CHART TỪ NGÔN NGỮ
+          # Metrics sẽ tự phân loại: C# -> Backend, JS -> Frontend/Mobile
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_limit: 8
+          
+          # Ép hiển thị dạng Radar cho thói quen (bổ trợ thêm)
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: radar 
+
           config_display: columns
