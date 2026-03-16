@@ -53,7 +53,7 @@
     </td>
     <td width="55%" valign="top" align="center">
       <h3>📊 Skills & Activity</h3>
-      <img src="https://raw.githubusercontent.com/Thang4869/Thang4869/main/github-metrics.svg" alt="Metrics Radar" width="100%" />
+      <img src="https://raw.githubusercontent.com/Thang4869/Thang4869/main/profile-graph/graph--dark.svg" alt="GitHub Profile Graph" width="100%" />
       <br/><br/>
       <img src="https://github-readme-stats.vercel.app/api?username=Thang4869&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117&title_color=84B179&icon_color=A2CB8B&text_color=888888&border_color=444444&include_all_commits=true&cache_seconds=1800" width="100%" style="max-width: 520px;" />
       <br/><br/>
