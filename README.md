@@ -40,7 +40,7 @@
       <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
       <br/>
 <h3>📫 Contact</h3>
-<a href="mailto:vanthang48692109@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=vanthang48692109@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://zalo.me/0924039937" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" /></a> 
