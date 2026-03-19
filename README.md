@@ -1,4 +1,4 @@
-# 👋 Xin chào! Tôi là Nguyễn Văn Thắng
+# 👋 Hi! I'm Thang
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=84B179&center=true&vCenter=true&width=460&lines=.NET+Fullstack+Developer;Luôn+sẵn+sàng+học+hỏi+và+phát+triển!;C%23+%2F+ASP.NET+Core+%2F+React;Backend+Architect+%2F+Clean+Architecture" alt="Typing SVG" />
 </div>
@@ -39,17 +39,13 @@
       <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> 
       <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
       <br/>
-      <h3>📫 Contact</h3>
-      <a href="mailto:vanthang48692109@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-      <a href="https://zalo.me/0924039937">
-        <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" /></a> 
-      <a href="https://www.linkedin.com/in/wint2109">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-      <a href="https://www.facebook.com/Wint2109">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-      <h3>👀 Profile Views</h3>
-      <img src="https://komarev.com/ghpvc/?username=Thang4869&style=flat-square&color=84B179" alt="profile views"/>
+<h3>📫 Contact</h3>
+<a href="mailto:vanthang48692109@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://zalo.me/0924039937" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/wint2109" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     </td>
     <td width="55%" valign="top" align="center">
       <h3>📊 Skills & Activity</h3>
@@ -71,5 +67,5 @@
   </tr>
 </table>
 <div align="center">
-⭐ Nếu bạn thích profile này, hãy cho tôi một star nhé! ⭐
+  ⭐ If you find this profile useful, please consider giving it a star. ⭐
 </div>
