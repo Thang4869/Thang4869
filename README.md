@@ -56,15 +56,6 @@
 <img src="https://github-readme-stats-one-psi-85.vercel.app/api/top-langs/?username=Thang4869&layout=compact&theme=react&hide_border=false&bg_color=0D1117&title_color=84B179&text_color=888888&border_color=444444&cache_seconds=1800" width="100%" style="max-width: 350px;" />
     </td>
   </tr>
-
-  <tr>
-    <td colspan="2" align="center">
-      <br/>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thang4869&bg_color=0D1117&color=888888&line=84B179&point=A2CB8B&area=true&hide_border=false&title_color=84B179&border_color=444444" width="100%" />
-      <br/><br/>
-      <img src="https://raw.githubusercontent.com/Thang4869/Thang4869/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-    </td>
-  </tr>
 </table>
 <div align="center">
   ⭐ If you find this profile useful, please consider giving it a star. ⭐
