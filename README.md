@@ -53,7 +53,7 @@
       <br/><br/>
       <img src="https://github-readme-stats-one-psi-85.vercel.app/api?username=Thang4869&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117&title_color=84B179&icon_color=A2CB8B&text_color=888888&border_color=444444&include_all_commits=true&cache_seconds=1800" width="100%" style="max-width: 520px;" />
 <br/><br/>
-<img src="https://github-readme-stats-one-psi-85.vercel.app/api/top-langs/?username=Thang4869&layout=compact&theme=react&hide_border=false&bg_color=0D1117&title_color=84B179&text_color=888888&border_color=444444&cache_seconds=1800" width="100%" style="max-width: 350px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thang4869&layout=compact&theme=react&hide_border=false&bg_color=0D1117&title_color=84B179&text_color=888888&border_color=444444&cache_seconds=1800" width="100%" style="max-width: 350px;" />
     </td>
   </tr>
 </table>
