@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Thang
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=84B179&center=true&vCenter=true&width=460&lines=.NET+Fullstack+Developer;Luôn+sẵn+sàng+học+hỏi+và+phát+triển!;C%23+%2F+ASP.NET+Core+%2F+React;Backend+Architect+%2F+Clean+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=84B179&center=true&vCenter=true&width=460&lines=.NET+Fullstack+Developer;Lu%C3%B4n+s%E1%BA%B3n+s%C3%A0ng+h%E1%BB%8Dc+h%E1%BB%8Fi+v%C3%A0+ph%C3%A1t+tri%E1%BB%83n!;C%23+%2F+ASP.NET+Core+%2F+React;Backend+Architect+%2F+Clean+Architecture" alt="Typing SVG" />
 </div>
 
 <table border="0" width="100%">
@@ -39,21 +39,29 @@
       <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> 
       <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
       <br/>
-<h3>📫 Contact</h3>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=vanthang48692109@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://zalo.me/0924039937" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/wint2109" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+      <h3>📫 Contact</h3>
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vanthang48692109@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+      <a href="https://zalo.me/0924039937" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" /></a> 
+      <a href="https://www.linkedin.com/in/wint2109" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     </td>
     <td width="55%" valign="top" align="center">
       <h3>📊 Skills & Activity</h3>
-  <img src="https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Backend%27%2C%27Frontend%27%2C%27Database%27%2C%27DevOps%27%2C%27Mobile%27%2C%27Testing%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Skill%27%2Cdata%3A%5B100%2C95%2C95%2C95%2C75%2C100%5D%2CbackgroundColor%3A%27rgba%28145%2C208%2C108%2C0.3%29%27%2CborderColor%3A%27%2391D06C%27%2CborderWidth%3A3%2Ctension%3A0.4%2CpointRadius%3A3%2CpointBackgroundColor%3A%27%2391D06C%27%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2CchartJsPluginCanvasBackground%3A%7Bcolor%3A%27%230D1117%27%7D%7D%2Clayout%3A%7Bpadding%3A40%7D%2Cscales%3A%7Br%3A%7BangleLines%3A%7Bcolor%3A%27rgba%28145%2C208%2C108%2C0.5%29%27%2ClineWidth%3A2%7D%2Cgrid%3A%7Bcolor%3A%27rgba%28145%2C208%2C108%2C0.35%29%27%2ClineWidth%3A1.5%7D%2CpointLabels%3A%7Bcolor%3A%27%2391D06C%27%2Cfont%3A%7Bsize%3A18%2Cweight%3A%27bold%27%7D%7D%2Cticks%3A%7Bdisplay%3Afalse%2Cmax%3A100%2Cmin%3A0%2CstepSize%3A20%7D%7D%7D%7D%7D&v=3" width="400"/>
-      <br/><br/>
+      <img src="https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Backend%27%2C%27Frontend%27%2C%27Database%27%2C%27DevOps%27%2C%27Mobile%27%2C%27Testing%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Skill%27%2Cdata%3A%5B100%2C95%2C95%2C95%2C75%2C100%5D%2CbackgroundColor%3A%27rgba%28145%2C208%2C108%2C0.3%29%27%2CborderColor%3A%27%2391D06C%27%2CborderWidth%3A3%2Ctension%3A0.4%2CpointRadius%3A3%2CpointBackgroundColor%3A%27%2391D06C%27%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2CchartJsPluginCanvasBackground%3A%7Bcolor%3A%27%230D1117%27%7D%7D%2Clayout%3A%7Bpadding%3A40%7D%2Cscales%3A%7Br%3A%7BangleLines%3A%7Bcolor%3A%27rgba%28145%2C208%2C108%2C0.5%29%27%2ClineWidth%3A2%7D%2Cgrid%3A%7Bcolor%3A%27rgba%28145%2C208%2C108%2C0.35%29%27%2ClineWidth%3A1.5%7D%2CpointLabels%3A%7Bcolor%3A%27%2391D06C%27%2Cfont%3A%7Bsize%3A18%2Cweight%3A%27bold%27%7D%7D%2Cticks%3A%7Bdisplay%3Afalse%2Cmax%3A100%2Cmin%3A0%2CstepSize%3A20%7D%7D%7D%7D%7D&v=3" width="400"/>
+      <br/>
       <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Thang4869?cardType=level&theme=dark&fontFamily=&preferLogin=false" style="max-width: 520px;" />
-<br/><br/>
-<img src="https://github-readme-stats-one-psi-85.vercel.app/api/top-langs/?username=Thang4869&layout=compact&theme=react&hide_border=false&bg_color=0D1117&title_color=84B179&text_color=888888&border_color=444444&cache_seconds=1800" width="100%" style="max-width: 350px;" />
+      <br/>
+      <img src="https://github-readme-stats-one-psi-85.vercel.app/api/top-langs/?username=Thang4869&layout=compact&theme=react&hide_border=false&bg_color=0D1117&title_color=84B179&text_color=888888&border_color=444444&cache_seconds=1800" width="85%" style="max-width: 350px;" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thang4869&theme=radical&background=0D1117&ring=84B179&fire=84B179&currStreakLabel=84B179&hide_border=false&border=444444" width="55%" />
+      <br/>
+      <img src="https://komarev.com/ghpvc/?username=Thang4869&label=Profile%20Views&color=84B179&style=flat" alt="Profile Views" />
+      <br/>
     </td>
   </tr>
 </table>
