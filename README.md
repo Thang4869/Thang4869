@@ -58,7 +58,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thang4869&theme=radical&background=0D1117&ring=84B179&fire=84B179&currStreakLabel=84B179&hide_border=false&border=444444" width="55%" />
+      <img src="./profile/streak.svg" width="55%" alt="GitHub Streak" />
       <br/>
       <img src="https://komarev.com/ghpvc/?username=Thang4869&label=Profile%20Views&color=84B179&style=flat" alt="Profile Views" />
       <br/>
