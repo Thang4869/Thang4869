@@ -1,0 +1,30 @@
+name: Update Top Languages
+
+on:
+  schedule:
+    - cron: "0 3 * * *"    # chạy mỗi ngày lúc 03:00 UTC
+  workflow_dispatch:                      # cho phép chạy thủ công
+
+jobs:
+  update-langs:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Top Languages card
+        run: |
+          mkdir -p profile
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=Thang4869&layout=compact&theme=react&hide_border=false&bg_color=0D1117&title_color=84B179&text_color=888888&border_color=444444&cache_seconds=1800" \
+            -o profile/top-langs.svg
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/top-langs.svg
+          git commit -m "Update top languages card" || exit 0
+          git push
