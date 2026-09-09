@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Thang aaa
+# 👋 Hi! I'm Thang
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=84B179&center=true&vCenter=true&width=460&lines=.NET+Fullstack+Developer;Lu%C3%B4n+s%E1%BA%B3n+s%C3%A0ng+h%E1%BB%8Dc+h%E1%BB%8Fi+v%C3%A0+ph%C3%A1t+tri%E1%BB%83n!;C%23+%2F+ASP.NET+Core+%2F+React;Backend+Architect+%2F+Clean+Architecture" alt="Typing SVG" />
 </div>
