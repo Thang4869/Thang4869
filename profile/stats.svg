@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Nguy&#7877;n V&#259;n Th&#7855;ng&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 10, Total Commits  (last year) : 1417, Total PRs: 298, Total PRs Reviewed: 10, Total Issues: 97, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 10, Total Commits  (last year) : 1420, Total PRs: 299, Total PRs Reviewed: 10, Total Issues: 97, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 89.83413574724072;
+        stroke-dashoffset: 89.81341553985503;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >298</text>
+      >299</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
